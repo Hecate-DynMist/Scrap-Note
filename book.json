@@ -1,0 +1,12 @@
+{
+    "title": "Web Scraping",
+    "description": "Study Note for web scraping",
+    "author": "Hecate",
+    "root": ".",
+
+    "plugins": [
+        "mathjax"
+        
+    ]
+
+  }
